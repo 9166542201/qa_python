@@ -1,1 +1,16 @@
 # qa_python
+## Set of tests that cover the BooksCollector
+1. test_add_new_book_valid_name
+1. test_add_new_book_invalid_name
+1. test_set_book_genre_valid_genre
+1. test_set_book_genre_invalid_genre
+1. test_get_book_genre
+1. test_get_books_genre
+1. test_get_books_with_specific_genre_valid_genre
+1. test_get_books_with_specific_genre_invalid_genre
+1. test_get_books_for_children
+1. test_add_book_in_favorites_valid_book_name
+1. test_add_book_in_favorites_invalid_book_name
+1. test_delete_book_from_favorites_valid_book_name
+1. test_delete_book_from_favorites_invalid_book_name
+1. test_get_list_of_favorites_books
